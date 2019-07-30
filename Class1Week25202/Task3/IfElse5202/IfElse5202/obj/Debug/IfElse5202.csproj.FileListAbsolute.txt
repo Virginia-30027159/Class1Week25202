@@ -1,0 +1,7 @@
+C:\Users\30027159\Repos\Class1Week25202\Class1Week25202\IfElse5202\IfElse5202\obj\Debug\IfElse5202.csprojAssemblyReference.cache
+C:\Users\30027159\Repos\Class1Week25202\Class1Week25202\IfElse5202\IfElse5202\obj\Debug\IfElse5202.csproj.CoreCompileInputs.cache
+C:\Users\30027159\Repos\Class1Week25202\Class1Week25202\IfElse5202\IfElse5202\bin\Debug\IfElse5202.exe.config
+C:\Users\30027159\Repos\Class1Week25202\Class1Week25202\IfElse5202\IfElse5202\bin\Debug\IfElse5202.exe
+C:\Users\30027159\Repos\Class1Week25202\Class1Week25202\IfElse5202\IfElse5202\bin\Debug\IfElse5202.pdb
+C:\Users\30027159\Repos\Class1Week25202\Class1Week25202\IfElse5202\IfElse5202\obj\Debug\IfElse5202.exe
+C:\Users\30027159\Repos\Class1Week25202\Class1Week25202\IfElse5202\IfElse5202\obj\Debug\IfElse5202.pdb
